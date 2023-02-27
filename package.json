@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  },
+  "name": "generator-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
